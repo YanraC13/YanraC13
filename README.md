@@ -1,6 +1,7 @@
 # Ryan Avaro
 
 **Administrateur systèmes & réseaux, orienté cybersécurité**
+
 Étudiant en Master Cybersécurité à Ynov Campus Montpellier (2026–2028). Je recherche une **alternance de 2 ans** en administration systèmes & réseaux, avec une dimension cybersécurité.
 
 J'ai choisi la cybersécurité pour protéger les infrastructures critiques, en particulier celles de mon pays, le Gabon. Mes stages sur des sites industriels m'ont appris qu'un système d'information doit rester **disponible et sécurisé**.
